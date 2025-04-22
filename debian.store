@@ -1,1 +1,1 @@
-{"base": "29b8d836", "parent": "debian/rolling/autoware_sensing_msgs", "previous": "fad331cd", "trim": "", "trimbase": ""}
+{"base": "e0f1243f847d", "parent": "debian/kilted/autoware_sensing_msgs", "previous": "ee5083be6efd", "trim": "", "trimbase": ""}
