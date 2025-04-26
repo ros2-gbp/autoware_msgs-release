@@ -1,3 +1,37 @@
+## autoware_msgs (kilted) - 1.7.0-1
+
+The packages in the `autoware_msgs` repository were released into the `kilted` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release autoware_msgs -r kilted` on `Sat, 26 Apr 2025 17:54:04 -0000`
+
+These packages were released:
+- `autoware_common_msgs`
+- `autoware_control_msgs`
+- `autoware_localization_msgs`
+- `autoware_map_msgs`
+- `autoware_msgs`
+- `autoware_perception_msgs`
+- `autoware_planning_msgs`
+- `autoware_sensing_msgs`
+- `autoware_system_msgs`
+- `autoware_v2x_msgs`
+- `autoware_vehicle_msgs`
+
+Version of package(s) in repository `autoware_msgs`:
+
+- upstream repository: https://github.com/autowarefoundation/autoware_msgs.git
+- release repository: https://github.com/ros2-gbp/autoware_msgs-release.git
+- rosdistro version: `1.6.0-2`
+- old version: `1.6.0-2`
+- new version: `1.7.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## autoware_msgs (rolling) - 1.7.0-1
 
 The packages in the `autoware_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling autoware_msgs` on `Tue, 22 Apr 2025 07:30:25 -0000`
