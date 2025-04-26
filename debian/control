@@ -1,0 +1,12 @@
+Source: ros-kilted-autoware-msgs
+Section: misc
+Priority: optional
+Maintainer: M. Fatih Cırıt <mfc@autoware.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kilted-ament-cmake, ros-kilted-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-autoware-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kilted-autoware-common-msgs, ros-kilted-autoware-control-msgs, ros-kilted-autoware-localization-msgs, ros-kilted-autoware-map-msgs, ros-kilted-autoware-perception-msgs, ros-kilted-autoware-planning-msgs, ros-kilted-autoware-sensing-msgs, ros-kilted-autoware-system-msgs, ros-kilted-autoware-v2x-msgs, ros-kilted-autoware-vehicle-msgs, ros-kilted-ros-workspace
+Description: Meta package for the autoware_msgs packages
