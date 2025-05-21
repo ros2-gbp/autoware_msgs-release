@@ -1,0 +1,12 @@
+Source: ros-jazzy-autoware-msgs
+Section: misc
+Priority: optional
+Maintainer: Mete Fatih Cırıt <mfc@autoware.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-autoware-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-autoware-common-msgs, ros-jazzy-autoware-control-msgs, ros-jazzy-autoware-localization-msgs, ros-jazzy-autoware-map-msgs, ros-jazzy-autoware-perception-msgs, ros-jazzy-autoware-planning-msgs, ros-jazzy-autoware-sensing-msgs, ros-jazzy-autoware-system-msgs, ros-jazzy-autoware-v2x-msgs, ros-jazzy-autoware-vehicle-msgs, ros-jazzy-ros-workspace
+Description: Meta package for the autoware_msgs packages
