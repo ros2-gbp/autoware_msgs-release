@@ -1,3 +1,37 @@
+## autoware_msgs (humble) - 1.10.0-1
+
+The packages in the `autoware_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble autoware_msgs` on `Mon, 20 Oct 2025 11:39:40 -0000`
+
+These packages were released:
+- `autoware_common_msgs`
+- `autoware_control_msgs`
+- `autoware_localization_msgs`
+- `autoware_map_msgs`
+- `autoware_msgs`
+- `autoware_perception_msgs`
+- `autoware_planning_msgs`
+- `autoware_sensing_msgs`
+- `autoware_system_msgs`
+- `autoware_v2x_msgs`
+- `autoware_vehicle_msgs`
+
+Version of package(s) in repository `autoware_msgs`:
+
+- upstream repository: https://github.com/autowarefoundation/autoware_msgs.git
+- release repository: https://github.com/ros2-gbp/autoware_msgs-release.git
+- rosdistro version: `1.9.0-1`
+- old version: `1.9.0-1`
+- new version: `1.10.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## autoware_msgs (humble) - 1.9.0-1
 
 The packages in the `autoware_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release autoware_msgs --rosdistro humble --track humble` on `Thu, 26 Jun 2025 10:59:08 -0000`
