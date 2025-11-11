@@ -2,6 +2,15 @@
 Changelog for package autoware_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.0 (2025-10-23)
+-------------------
+
+1.10.0 (2025-07-18)
+-------------------
+
+1.9.0 (2025-06-18)
+------------------
+
 1.8.0 (2025-05-21)
 ------------------
 * chore: fix email domain (`#133 <https://github.com/autowarefoundation/autoware_msgs/issues/133>`_)
