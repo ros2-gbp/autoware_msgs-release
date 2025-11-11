@@ -2,6 +2,22 @@
 Changelog for package autoware_localization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.0 (2025-10-23)
+-------------------
+
+1.10.0 (2025-07-18)
+-------------------
+* chore: update maintainer for autoware_msgs packages (`#143 <https://github.com/autowarefoundation/autoware_msgs/issues/143>`_)
+* Contributors: Ryohsuke Mitsudome
+
+1.9.0 (2025-06-18)
+------------------
+* feat(autoware_localization_msgs): add InitializeLocalization service (`#139 <https://github.com/autowarefoundation/autoware_msgs/issues/139>`_)
+  * feat: add InitializeLocalization service
+  * fix: add service file in CMakeLists.txt
+  ---------
+* Contributors: Ryohsuke Mitsudome
+
 1.8.0 (2025-05-21)
 ------------------
 * chore: fix email domain (`#133 <https://github.com/autowarefoundation/autoware_msgs/issues/133>`_)
