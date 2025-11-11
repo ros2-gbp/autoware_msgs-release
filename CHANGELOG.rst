@@ -2,6 +2,19 @@
 Changelog for package autoware_sensing_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.0 (2025-10-23)
+-------------------
+
+1.10.0 (2025-07-18)
+-------------------
+* feat(autoware_sensing_msgs): add PointCloud meta info msgs (`#142 <https://github.com/autowarefoundation/autoware_msgs/issues/142>`_)
+  Co-authored-by: Mete Fatih Cırıt <mfc@autoware.org>
+* chore: update maintainer for autoware_msgs packages (`#143 <https://github.com/autowarefoundation/autoware_msgs/issues/143>`_)
+* Contributors: Amadeusz Szymko, Ryohsuke Mitsudome
+
+1.9.0 (2025-06-18)
+------------------
+
 1.8.0 (2025-05-21)
 ------------------
 * chore: fix email domain (`#133 <https://github.com/autowarefoundation/autoware_msgs/issues/133>`_)
