@@ -1,1 +1,1 @@
-{"base": "a56480e82f2f", "parent": "debian/rolling/autoware_map_msgs", "previous": "73805049e265", "trim": "", "trimbase": ""}
+{"base": "3563b99f", "parent": "debian/lyrical/autoware_map_msgs", "previous": "a59158c8", "trim": "", "trimbase": ""}
