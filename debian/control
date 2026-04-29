@@ -1,0 +1,12 @@
+Source: ros-lyrical-autoware-msgs
+Section: misc
+Priority: optional
+Maintainer: Mete Fatih Cırıt <mfc@autoware.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/autoware_msgs/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-autoware-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-autoware-common-msgs, ros-lyrical-autoware-control-msgs, ros-lyrical-autoware-localization-msgs, ros-lyrical-autoware-map-msgs, ros-lyrical-autoware-perception-msgs, ros-lyrical-autoware-planning-msgs, ros-lyrical-autoware-sensing-msgs, ros-lyrical-autoware-system-msgs, ros-lyrical-autoware-v2x-msgs, ros-lyrical-autoware-vehicle-msgs, ros-lyrical-ros-workspace
+Description: Meta package for the autoware_msgs packages
