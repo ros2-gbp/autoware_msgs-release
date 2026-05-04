@@ -1,3 +1,6 @@
-# autoware_msgs
+# autoware_planning_msgs
 
-Before contributing, review [the message guidelines](https://autowarefoundation.github.io/autoware-documentation/main/contributing/coding-guidelines/ros-nodes/message-guidelines/).
+## PoseWithUuidStamped.msg
+
+The message contains a pose data attached with an uuid and header.
+Use case example is [goal modification](https://github.com/orgs/autowarefoundation/discussions/2983)
