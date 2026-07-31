@@ -9,6 +9,10 @@ find_package(ament_cmake_auto REQUIRED)
 ament_auto_find_build_dependencies()
 
 rosidl_generate_interfaces(${PROJECT_NAME}
+    "msg/ActuationCommand.msg"
+    "msg/ActuationCommandStamped.msg"
+    "msg/ActuationReport.msg"
+    "msg/ActuationReportStamped.msg"
     "msg/ControlModeReport.msg"
     "msg/Engage.msg"
     "msg/GearCommand.msg"
@@ -32,4 +36,4 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
-ament_auto_package()
+ament_auto_package(USE_SCOPED_HEADER_INSTALL_DIR)
